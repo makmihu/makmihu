@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Excited to Create New things!
+- I'm currently in search of my first job in Web Development.
+
+-  I’m working on my Mikkie Makes Crochet Shop to improve its functionality.
+
+-  How to reach me:
+  - makmihu@gmail.com
+  - linkedin.com/in/makayla-mihu   
 
 <!--
 **makmihu/makmihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
