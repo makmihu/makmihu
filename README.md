@@ -8,7 +8,7 @@ I'm Excited to Create New things!
   - makmihu@gmail.com
   - linkedin.com/in/makayla-mihu
 
-![MaKayla's github stats](https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_HANDLE_HERE&show_icons=true&theme=dark)
+![MaKayla's github stats](https://github-readme-stats.vercel.app/api?username=makmihu&show_icons=true&theme=dark)
 
 <!--
 **makmihu/makmihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
