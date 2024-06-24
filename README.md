@@ -1,4 +1,4 @@
-Web Developer with a strong independent work ethic, having worked for three years remotely. I am also a dedicated learner, finishing my associate's degree in a year and a half out of high school, and  attended a 1,000+ hour coding bootcamp, which focused on JavaScript, React, and Node.js.
+Full Stack Web Developer with a strong independent work ethic, having worked for three years remotely. I am also a dedicated learner, finishing my associate's degree in a year and a half out of high school, and  attended a 1,000+ hour coding boot camp, which focused on JavaScript, React, and Node.js.
 
 👀 View my portfolio here: [Portfolio](https://makayla-mihu-portfolio.netlify.app/)
 
