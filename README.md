@@ -2,7 +2,7 @@ Web Developer with a strong independent work ethic, having worked for three year
 
 👀 View my portfolio here: [Portfolio](https://makayla-mihu-portfolio.netlify.app/)
 
-📝 Check out my resume here: [MaKayla's Resume](drive.google.com)
+📝 Check out my resume here: [Resume 2024](https://docs.google.com/document/d/e/2PACX-1vTs3teHRAj1hpzxUArYZgVTx6ubabnWh4CQI6Sc1XvtxKFWlVd49ZUmCqlgb-_0StooP6ZhTfwSGQls/pub)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/makayla-mihu)
 
