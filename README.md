@@ -2,7 +2,7 @@ Full Stack Web Developer with a strong independent work ethic, having worked for
 
 👀 View my portfolio here: [Portfolio](https://portfolio-makayla-mihu.netlify.app/)
 
-📝 Check out my resume here: [Resume 2024](https://docs.google.com/document/d/e/2PACX-1vTs3teHRAj1hpzxUArYZgVTx6ubabnWh4CQI6Sc1XvtxKFWlVd49ZUmCqlgb-_0StooP6ZhTfwSGQls/pub)
+📝 Check out my resume here: [Resume 2025](https://docs.google.com/document/d/1-YXz7E367nEIHiXC_TiElzNeFC1sE0wH7VJGmRv6v6w/edit?usp=sharing)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/makayla-mihu)
 
