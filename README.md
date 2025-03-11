@@ -1,4 +1,4 @@
-Full Stack Web Developer with a strong independent work ethic, having worked for three years remotely. I am also a dedicated learner, finishing my associate's degree in a year and a half out of high school, and  attended a 1,000+ hour coding boot camp, which focused on JavaScript, React, and Node.js.
+Full Stack Engineer and UX/UI Designer (ReactJS, Sveltekit, JavaScript, HTML/CSS, Figma) Seeking Entry Level Position in Provo, Utah or Remote. Has a strong independent work ethic, and four years remote work experience. Also a dedicated learner, finishing an associate's degree in a year and a half out of high school, and attended a 1,000+ hour coding boot camp, which focused on JavaScript, React, and Node.js.
 
 👀 View my portfolio here: [Portfolio](https://portfolio-makayla-mihu.netlify.app/)
 
